@@ -1,4 +1,4 @@
-# reminder_app
+# Check-Your-Reminder
 
 This is a simple reminder app built using the Flutter framework. The app helps users manage their tasks and appointments efficiently by allowing them to create, edit, and delete reminders. It also includes advanced features such as priority levels and filtering options to enhance productivity.
 
