@@ -17,7 +17,7 @@ class NotificationService {
 
   Future<void> scheduleNotification(int id, String title, DateTime scheduledTime, String description) async {
     const AndroidNotificationDetails androidPlatformChannelSpecifics =
-    AndroidNotificationDetails('your channel id', 'your channel name',
+    AndroidNotificationDetails('101', 'Alert',
         importance: Importance.max, priority: Priority.high);
 
     const NotificationDetails platformChannelSpecifics =
